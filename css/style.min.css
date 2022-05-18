@@ -530,8 +530,7 @@ h1 {
 }
 
 .congrat .btn-wrap {
-  display: block;
-  /* margin: 6vh auto; */
+  display: block; 
   margin-left: auto;
   margin-right: auto;
   margin-top: 8vh;
